@@ -162,8 +162,6 @@ Follow these steps to set up and run the Virtual Sales Agent:
 
    This will open the application in your web browser, and you can start interacting with the Virtual Sales Agent.
 
----
-
 
 ---
 
